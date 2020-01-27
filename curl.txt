@@ -1,0 +1,23 @@
+curl -i \
+  -H "Content-Type: application/json" \
+  -d '
+{ "auth": {
+    "identity": {
+      "methods": ["password"],
+      "password": {
+        "user": {
+          "name": "admin",
+          "domain": { "id": "default" },
+          "password": "32b83fb9dabb9c72fb7f7916e0bc3b69c3f28dfd"
+        }
+      }
+    },
+    "scope": {
+      "project": {
+        "name": "admin",
+        "domain": { "id": "default" }
+      }
+    }
+  }
+}' \
+  "https://10.20.35.1:13000/v3/auth/tokens" ; echo

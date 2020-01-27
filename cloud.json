@@ -1,0 +1,1769 @@
+{
+	"ListBucketResult": {
+		"xmlns": "http://s3.amazonaws.com/doc/2006-03-01/",
+		"Name": "cloudformation-templates-us-west-2",
+		"Prefix": {},
+		"Marker": {},
+		"MaxKeys": "1000",
+		"IsTruncated": "false",
+		"Contents": [
+			{
+				"Key": "0039952412_1416613607_Windows_Roles_And_Features.template",
+				"LastModified": "2016-01-05T21:22:22.000Z",
+				"ETag": "\"a9fdb9578523e82ed76e3231a6bcea8c\"",
+				"Size": "9587",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "0039952412_1416613611_Windows_Single_Server_Active_Directory.template",
+				"LastModified": "2016-01-05T21:22:19.000Z",
+				"ETag": "\"e93eb89c72252643b0ff1c0c8f1e0132\"",
+				"Size": "12161",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "0039952412_1416613616_Windows_Single_Server_SharePoint_Foundation.template",
+				"LastModified": "2016-01-05T21:22:35.000Z",
+				"ETag": "\"edf31e1aa531ce5f62ab36a0402f7f5b\"",
+				"Size": "7287",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "AWSCloudFormer.template",
+				"LastModified": "2019-04-20T00:43:21.000Z",
+				"ETag": "\"d3ed7931f5f72cd49c7dc241236b5bc8\"",
+				"Size": "31343",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "Amigo32.template",
+				"LastModified": "2013-11-06T05:08:01.000Z",
+				"ETag": "\"f63d03bf537bd627858df0405efffe3f\"",
+				"Size": "5162",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "AutoScaledPHPWebServerWithMultiAZRDS-1.0.0.template",
+				"LastModified": "2013-11-06T05:08:02.000Z",
+				"ETag": "\"54dd75570ca37b28de2151b557c30a6b\"",
+				"Size": "8805",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "AutoScaledPHPWebServerWithMultiAZRDS.template",
+				"LastModified": "2013-11-06T05:08:03.000Z",
+				"ETag": "\"387058ef67844721912625b835c48846\"",
+				"Size": "9636",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "AutoScalingKeepAtNSample-1.0.0.template",
+				"LastModified": "2013-11-06T05:08:03.000Z",
+				"ETag": "\"54bd40a9e9758d07fbbfb7050c680a19\"",
+				"Size": "4314",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "AutoScalingKeepAtNSample.template",
+				"LastModified": "2019-03-12T00:39:28.000Z",
+				"ETag": "\"eea6d6de834ec8cac175e7df0701181d\"",
+				"Size": "18000",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "AutoScalingMultiAZSample-1.0.0.template",
+				"LastModified": "2013-11-06T05:08:05.000Z",
+				"ETag": "\"0eebcb8464c87f8955043c2bc37ecf22\"",
+				"Size": "5086",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "AutoScalingMultiAZSample.template",
+				"LastModified": "2013-11-06T05:08:05.000Z",
+				"ETag": "\"662043469dc0d991129c3117fd3f6097\"",
+				"Size": "7648",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "AutoScalingMultiAZWithNotifications.template",
+				"LastModified": "2019-03-12T00:39:32.000Z",
+				"ETag": "\"138b41677efc8a2de6d845dcc3b740f3\"",
+				"Size": "21252",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "AutoScalingRollingUpdates.template",
+				"LastModified": "2019-03-12T00:39:24.000Z",
+				"ETag": "\"e85bfc7255c1aec42815837b945a7d81\"",
+				"Size": "18007",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "AutoScalingScheduledAction.template",
+				"LastModified": "2019-03-12T00:39:33.000Z",
+				"ETag": "\"3dd34630f4bdc26dcad1c9a87c1cf541\"",
+				"Size": "18465",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "CloudFormationLogs.template",
+				"LastModified": "2014-07-21T17:15:34.000Z",
+				"ETag": "\"627a61e9111333fe392b2959dec96520\"",
+				"Size": "13961",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "CloudFormer.template",
+				"LastModified": "2019-04-20T00:43:21.000Z",
+				"ETag": "\"d3ed7931f5f72cd49c7dc241236b5bc8\"",
+				"Size": "31343",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "CloudFormer04.template",
+				"LastModified": "2015-04-22T20:48:09.000Z",
+				"ETag": "\"a4af5ccd097387443eb3208a2c0c25a5\"",
+				"Size": "14995",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "CloudFrontMultiOriginWithBeanstalkApp.template",
+				"LastModified": "2013-11-25T23:42:58.000Z",
+				"ETag": "\"b154a251430154a7825e5dc983f04eab\"",
+				"Size": "5870",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "CloudFront_MultiOrigin.template",
+				"LastModified": "2013-11-25T23:42:58.000Z",
+				"ETag": "\"6572d3c781d5117d19e0e4853cf05eba\"",
+				"Size": "5886",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "CloudFront_S3.template",
+				"LastModified": "2013-11-06T05:08:08.000Z",
+				"ETag": "\"8efddb65d545f7f0767b23b143ad60f5\"",
+				"Size": "1090",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "CloudWatch_Logs.template",
+				"LastModified": "2019-03-12T00:39:26.000Z",
+				"ETag": "\"497101ee4df763b9578ea87bb8c8f49e\"",
+				"Size": "24148",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "Config.template",
+				"LastModified": "2019-03-12T00:39:19.000Z",
+				"ETag": "\"31bd9764f0c1ef3ab090f5ac6dd1dafb\"",
+				"Size": "8425",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "Drupal-1.0.0.template",
+				"LastModified": "2013-11-06T05:08:09.000Z",
+				"ETag": "\"f318c26ba7542ddf7eb257b0f92f3fb4\"",
+				"Size": "11251",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "Drupal-NoSSH-1.0.0.template",
+				"LastModified": "2013-11-06T05:08:10.000Z",
+				"ETag": "\"4980f5adfd5749d3bb9a8a4f12646a61\"",
+				"Size": "11056",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "Drupal-NoSSH.template",
+				"LastModified": "2013-11-06T05:08:10.000Z",
+				"ETag": "\"93aff0f32d13f826a8e059cd806bcbd4\"",
+				"Size": "12108",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "Drupal.template",
+				"LastModified": "2013-11-06T05:08:11.000Z",
+				"ETag": "\"ccf63dfd6f7bfabb1a94e743379047cd\"",
+				"Size": "12318",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "Drupal_Multi_AZ.template",
+				"LastModified": "2014-03-04T20:03:06.000Z",
+				"ETag": "\"c2d09e3096d738eca16b9ba9d5f2a0af\"",
+				"Size": "18005",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "Drupal_Simple.template",
+				"LastModified": "2013-11-06T05:08:13.000Z",
+				"ETag": "\"032081d345a4b6490557cc0eb14a7071\"",
+				"Size": "7680",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "Drupal_Single_Instance.template",
+				"LastModified": "2013-11-25T23:42:59.000Z",
+				"ETag": "\"31905e8dc8b7025b1be85b403bae6a68\"",
+				"Size": "10931",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "Drupal_Single_Instance_With_RDS.template",
+				"LastModified": "2013-11-25T23:42:59.000Z",
+				"ETag": "\"ffe04aa337f41b1b4864461d3036e57f\"",
+				"Size": "10974",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "DynamoDBSI.template",
+				"LastModified": "2014-01-27T15:40:47.000Z",
+				"ETag": "\"f0f660b3f97d6eddef6f213ed4cbf849\"",
+				"Size": "2903",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "DynamoDB_Secondary_Indexes.template",
+				"LastModified": "2019-03-12T00:39:44.000Z",
+				"ETag": "\"2c1ddd0d0e9364d019e3d3ee1f6ac93a\"",
+				"Size": "2560",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "DynamoDB_Table.template",
+				"LastModified": "2019-03-12T00:39:41.000Z",
+				"ETag": "\"34054912fe6102c662519d590f83560f\"",
+				"Size": "2248",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "EBS_Snapshot_On_Delete.template",
+				"LastModified": "2013-11-06T05:08:15.000Z",
+				"ETag": "\"36d3e1fafff75e0a05544e6a2aecef86\"",
+				"Size": "3461",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "EC2ChooseAMI-1.0.0.template",
+				"LastModified": "2013-11-06T05:08:16.000Z",
+				"ETag": "\"2e9239c2f5519d109a8851a3fb5d295a\"",
+				"Size": "2985",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "EC2ChooseAMI.template",
+				"LastModified": "2013-11-25T23:42:59.000Z",
+				"ETag": "\"9279eb2422e798ea6171e0e03f660e83\"",
+				"Size": "4180",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "EC2InstanceSample-1.0.0.template",
+				"LastModified": "2013-11-06T05:08:17.000Z",
+				"ETag": "\"b2df672e62a27367863c80fc74fbea5e\"",
+				"Size": "2071",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "EC2InstanceSample.template",
+				"LastModified": "2013-11-25T23:42:59.000Z",
+				"ETag": "\"5b55e7e447fc8824cd4a468f090f2c81\"",
+				"Size": "2742",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "EC2InstanceWithEBSVolumeConditionalIOPs.template",
+				"LastModified": "2013-11-25T23:42:58.000Z",
+				"ETag": "\"c101e6a97c84b75d3bfe711022133482\"",
+				"Size": "7385",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "EC2InstanceWithSecurityGroupSample-1.0.0.template",
+				"LastModified": "2013-11-06T05:08:18.000Z",
+				"ETag": "\"2b200ea5d0ac19ed517702920ec38c5a\"",
+				"Size": "2218",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "EC2InstanceWithSecurityGroupSample.template",
+				"LastModified": "2019-03-12T00:39:29.000Z",
+				"ETag": "\"d59302d4b1283d1c6320c022d7cf395c\"",
+				"Size": "10704",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "EC2WebSiteSample-1.0.0.template",
+				"LastModified": "2013-11-06T05:08:19.000Z",
+				"ETag": "\"a97e6216366520aba41129761f3c952a\"",
+				"Size": "3638",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "EC2WebSiteSample.template",
+				"LastModified": "2013-11-25T23:43:03.000Z",
+				"ETag": "\"174fbb4348dd09d7b2e8cfb43f58d79b\"",
+				"Size": "6390",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "EC2WithEBSPIOPs.template",
+				"LastModified": "2013-11-25T23:43:03.000Z",
+				"ETag": "\"f41dfff5956578a5593dcf226e86e9ea\"",
+				"Size": "3299",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "EC2WithEBSSample-1.0.0.template",
+				"LastModified": "2013-11-06T05:08:21.000Z",
+				"ETag": "\"5ce3f043c739fcab77441ba2473d9665\"",
+				"Size": "2649",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "EC2WithEBSSample.template",
+				"LastModified": "2013-11-25T23:43:03.000Z",
+				"ETag": "\"75c098f8679769aac4827ddf95b68ba2\"",
+				"Size": "3734",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "EC2WithMetadata.template",
+				"LastModified": "2013-11-06T05:08:22.000Z",
+				"ETag": "\"4bf51f0c27e14c851828fd3818d0da18\"",
+				"Size": "2525",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "EC2_Instance_With_Block_Device_Mapping.template",
+				"LastModified": "2013-11-25T23:43:03.000Z",
+				"ETag": "\"8aa609e13ab2444fffcf5bca0bdfc4a3\"",
+				"Size": "4716",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "EC2_Instance_With_Ephemeral_Drives.template",
+				"LastModified": "2019-03-12T00:39:45.000Z",
+				"ETag": "\"66ca3ae2b3fc9ab6f92a45c3d7b50500\"",
+				"Size": "10162",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "EC2_Untargeted_Launch_with_EBS_Volume.template",
+				"LastModified": "2013-11-06T05:08:23.000Z",
+				"ETag": "\"d93ff95229a20341f94d5cc707d51f89\"",
+				"Size": "3317",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "EIP_With_Association.template",
+				"LastModified": "2019-03-12T00:39:43.000Z",
+				"ETag": "\"dc0931e4f6c4a57602039db98844cab7\"",
+				"Size": "10798",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "ELBGDAL.template",
+				"LastModified": "2014-03-20T15:04:06.000Z",
+				"ETag": "\"ea0ac9a44045cf71e393295cae464078\"",
+				"Size": "8756",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "ELBGuidedAutoScalingRollingUpgrade.template",
+				"LastModified": "2019-03-12T00:39:40.000Z",
+				"ETag": "\"8f8b095062e2805ef976d1df53ac2ae0\"",
+				"Size": "20499",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "ELBSample-1.0.0.template",
+				"LastModified": "2013-11-06T05:08:24.000Z",
+				"ETag": "\"30faae61ea8942a36d531eafed9f533a\"",
+				"Size": "4551",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "ELBSample.template",
+				"LastModified": "2013-11-25T23:43:04.000Z",
+				"ETag": "\"2fde18c9acee8ec3d558510feae91ca8\"",
+				"Size": "5930",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "ELBStickinessSample-1.0.0.template",
+				"LastModified": "2013-11-06T05:08:26.000Z",
+				"ETag": "\"dde22cc2790ac0c3d95f34e8cc710b04\"",
+				"Size": "4802",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "ELBStickinessSample.template",
+				"LastModified": "2019-03-12T00:39:29.000Z",
+				"ETag": "\"0a3137f03c7772589facf774dbec7632\"",
+				"Size": "19344",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "ELBWithLockedDownAutoScaledInstances.template",
+				"LastModified": "2019-03-12T00:39:42.000Z",
+				"ETag": "\"614913cb70efa3e30f8a12094b6184bb\"",
+				"Size": "18268",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "ELBWithLockedDownEC2Instances.template",
+				"LastModified": "2013-11-06T05:08:27.000Z",
+				"ETag": "\"beca59c2a8c77e35b0565f1ad2b69d65\"",
+				"Size": "4895",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "ELBZoneApex.template",
+				"LastModified": "2013-11-25T23:43:06.000Z",
+				"ETag": "\"e2851069915d0ae75e227e8b4809ca8e\"",
+				"Size": "6599",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "ELB_Access_Logs_And_Connection_Draining.template",
+				"LastModified": "2019-03-12T00:39:24.000Z",
+				"ETag": "\"77bd8f459d1b93966658145dc7b0ff4a\"",
+				"Size": "21755",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "ElastiCache.template",
+				"LastModified": "2019-03-12T00:39:22.000Z",
+				"ETag": "\"312781715ca9cad525ff75df720b112d\"",
+				"Size": "17552",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "ElastiCache_Redis.template",
+				"LastModified": "2019-03-12T00:39:30.000Z",
+				"ETag": "\"f16a9f60f771eb039f5b065e80127ea1\"",
+				"Size": "20909",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "Elastic-Beanstalk-in-VPC.template",
+				"LastModified": "2013-11-25T23:43:07.000Z",
+				"ETag": "\"881303c3c0a34e807d91168e62a08d58\"",
+				"Size": "17411",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "ElasticBeanstalk-1.0.0.template",
+				"LastModified": "2013-11-06T05:08:31.000Z",
+				"ETag": "\"242ef4afdd50647d9ba9725278c1f03b\"",
+				"Size": "6291",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "ElasticBeanstalk.template",
+				"LastModified": "2013-11-06T05:08:31.000Z",
+				"ETag": "\"5b545d98baa71cd4e3d171f752e18b17\"",
+				"Size": "6375",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "ElasticBeanstalkSample-1.0.0.template",
+				"LastModified": "2013-11-06T05:08:32.000Z",
+				"ETag": "\"0a474d373bb8ee371e79de169d14f618\"",
+				"Size": "2225",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "ElasticBeanstalkSample.template",
+				"LastModified": "2013-11-06T05:08:32.000Z",
+				"ETag": "\"e20258f593b1eb55cc190d24f392c02d\"",
+				"Size": "2138",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "ElasticBeanstalkSampleWithRoute53-1.0.0.template",
+				"LastModified": "2013-11-06T05:08:33.000Z",
+				"ETag": "\"980190e93332541ee1a69e335e3bb5ac\"",
+				"Size": "3274",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "ElasticBeanstalkSampleWithRoute53.template",
+				"LastModified": "2013-11-06T05:08:33.000Z",
+				"ETag": "\"61e55ac83593ed45c0692757e312f763\"",
+				"Size": "3356",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "ElasticBeanstalk_Nodejs_Sample.template",
+				"LastModified": "2019-03-12T00:39:28.000Z",
+				"ETag": "\"e356f8f4cc581529f9cc8a423bbf542a\"",
+				"Size": "5969",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "ElasticBeanstalk_PHP_Sample.template",
+				"LastModified": "2013-11-25T23:43:08.000Z",
+				"ETag": "\"4905f1cb368d19c4d0a5ba3740f8183a\"",
+				"Size": "2340",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "ElasticBeanstalk_Python_Sample.template",
+				"LastModified": "2013-11-06T05:08:35.000Z",
+				"ETag": "\"9203b51f150afb67a366f59391d9c77d\"",
+				"Size": "1947",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "ElasticBeanstalk_Ruby_Sample.template",
+				"LastModified": "2013-11-25T23:43:08.000Z",
+				"ETag": "\"2c6323338150b17157eb95e06252f7d0\"",
+				"Size": "2342",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "ElasticBeanstalk_Simple.template",
+				"LastModified": "2019-03-12T00:39:34.000Z",
+				"ETag": "\"18d28f9fb5418375e36e51546e94b3cb\"",
+				"Size": "10313",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "ElasticBeanstalk_Windows_Sample.template",
+				"LastModified": "2013-11-25T23:43:08.000Z",
+				"ETag": "\"b9b17b5bbd4bee8de9934ffcbd919591\"",
+				"Size": "2410",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "ElasticBeanstalk_in_VPC.template",
+				"LastModified": "2019-03-12T00:39:23.000Z",
+				"ETag": "\"e2c1eb02b4acf9b46a521c0f790fb097\"",
+				"Size": "27993",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "Gollum-1.0.0.template",
+				"LastModified": "2013-11-06T05:08:37.000Z",
+				"ETag": "\"26d812c228a19281d34ad1b38a1950c9\"",
+				"Size": "5072",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "Gollum-NoSSH-1.0.0.template",
+				"LastModified": "2013-11-06T05:08:38.000Z",
+				"ETag": "\"5b932f6f22ecb8763ec6c1a5145e18f4\"",
+				"Size": "4877",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "Gollum-NoSSH.template",
+				"LastModified": "2013-11-06T05:08:38.000Z",
+				"ETag": "\"ce1c8db1dca009b07323c8f05177b4d2\"",
+				"Size": "4621",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "Gollum.template",
+				"LastModified": "2013-11-06T05:08:39.000Z",
+				"ETag": "\"cdaf4415117747ef68b36ff6c704f47c\"",
+				"Size": "4829",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "Gollum_Simple.template",
+				"LastModified": "2013-12-03T21:11:57.000Z",
+				"ETag": "\"f678c9bd52a4b1b4143efeb88b4e2e8c\"",
+				"Size": "5626",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "Gollum_Single_Instance.template",
+				"LastModified": "2014-04-01T18:58:24.000Z",
+				"ETag": "\"8fb4d69bbb5abf64c7d44283ce6c7941\"",
+				"Size": "6532",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "Gollum_Single_Instance_With_EBS_Volume.template",
+				"LastModified": "2014-04-01T18:30:07.000Z",
+				"ETag": "\"65b450b15408f67f3a9876fc3bb8e2f4\"",
+				"Size": "8050",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "IAM_Policies_SNS_Publish_To_SQS.template",
+				"LastModified": "2013-11-06T05:08:41.000Z",
+				"ETag": "\"075597756e138ebcd4eb0242871f4b10\"",
+				"Size": "2177",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "IAM_Policies_for_S3.template",
+				"LastModified": "2013-11-06T05:08:42.000Z",
+				"ETag": "\"5e039bbbd5d5f2dcdc818b447a814583\"",
+				"Size": "1668",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "IAM_Users_Groups_and_Policies.template",
+				"LastModified": "2019-03-12T00:39:29.000Z",
+				"ETag": "\"d99277fadbc14da510e8e97cb1f38fe8\"",
+				"Size": "3414",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "Insoshi-1.0.0.template",
+				"LastModified": "2013-11-06T05:08:43.000Z",
+				"ETag": "\"081100a3a6d64315b59f3d97686538fa\"",
+				"Size": "11211",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "Insoshi-NoSSH-1.0.0.template",
+				"LastModified": "2013-11-06T05:08:43.000Z",
+				"ETag": "\"33c23c8e699faba868dfb2b4d6775791\"",
+				"Size": "11007",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "Insoshi-NoSSH.template",
+				"LastModified": "2013-11-06T05:08:44.000Z",
+				"ETag": "\"775f2a29d2bd2723c2311e97f420c537\"",
+				"Size": "12111",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "Insoshi.template",
+				"LastModified": "2013-11-06T05:08:45.000Z",
+				"ETag": "\"a48d2cf32ae311a6d007c5a01de531d1\"",
+				"Size": "12321",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "Insoshi_Multi_AZ.template",
+				"LastModified": "2013-11-25T23:43:12.000Z",
+				"ETag": "\"7e5095af32fdd02bb4ad4e6daa1fce5d\"",
+				"Size": "16215",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "Insoshi_Simple.template",
+				"LastModified": "2013-11-06T05:08:46.000Z",
+				"ETag": "\"f29631e27cb9aafc50c9aad5fd08cd1d\"",
+				"Size": "10308",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "Insoshi_Single_Instance.template",
+				"LastModified": "2013-11-25T23:43:12.000Z",
+				"ETag": "\"be5d01777876376fa9fc6e16dbf3aa35\"",
+				"Size": "12698",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "Insoshi_Single_Instance_With_RDS.template",
+				"LastModified": "2013-11-25T23:43:12.000Z",
+				"ETag": "\"16e7aa451f633a6a165b58e23128e43b\"",
+				"Size": "12203",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "Joomla!_Multi_AZ.template",
+				"LastModified": "2013-11-25T23:43:12.000Z",
+				"ETag": "\"faf4a847bfdf5981132f32bf19a0286b\"",
+				"Size": "13687",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "Joomla!_Simple.template",
+				"LastModified": "2013-11-06T05:08:49.000Z",
+				"ETag": "\"74a0f4b1319cd5f4a79877c1c8886781\"",
+				"Size": "8399",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "Joomla!_Single_Instance.template",
+				"LastModified": "2013-11-25T23:43:13.000Z",
+				"ETag": "\"e79667ef903c73f68eae5211fb7cff5b\"",
+				"Size": "11073",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "Joomla!_Single_Instance_With_RDS.template",
+				"LastModified": "2013-11-25T23:43:12.000Z",
+				"ETag": "\"f2762dc0855730b806ca94afcd0fe69b\"",
+				"Size": "11506",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "Joomla-1.0.0.template",
+				"LastModified": "2013-11-06T05:08:51.000Z",
+				"ETag": "\"57c2640adf41d66776c4483e76130480\"",
+				"Size": "10816",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "Joomla-NoSSH-1.0.0.template",
+				"LastModified": "2013-11-06T05:08:52.000Z",
+				"ETag": "\"bd8cfa7bc427c8e9979e774567b31e8e\"",
+				"Size": "10614",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "Joomla-NoSSH.template",
+				"LastModified": "2013-11-06T05:08:53.000Z",
+				"ETag": "\"1cda12853ed0ce19f1ff71f599d81c3b\"",
+				"Size": "11646",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "Joomla.template",
+				"LastModified": "2013-11-06T05:08:54.000Z",
+				"ETag": "\"6a9e26fde3fe1fecb19a1bdbf47276f5\"",
+				"Size": "11855",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "LAMP_Multi_AZ.template",
+				"LastModified": "2019-03-12T00:39:25.000Z",
+				"ETag": "\"0a9c0a6df5d1f546566488326a85b651\"",
+				"Size": "23240",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "LAMP_Simple.template",
+				"LastModified": "2013-11-06T05:08:55.000Z",
+				"ETag": "\"82128cd88777a642c09c83e183f06914\"",
+				"Size": "7283",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "LAMP_Single_Instance.template",
+				"LastModified": "2019-03-12T00:39:27.000Z",
+				"ETag": "\"0fb88d6725a8e9446336fea3f5c0f77e\"",
+				"Size": "19747",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "LAMP_Single_Instance_With_RDS.template",
+				"LastModified": "2013-11-25T23:43:16.000Z",
+				"ETag": "\"ebf07a9eff0dc6f9fadaade8bd81a8e7\"",
+				"Size": "9491",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "LambdaBackedCustomResourceWithNodeJsRuntime.template",
+				"LastModified": "2019-03-12T00:39:37.000Z",
+				"ETag": "\"49148c16d79ea19b588a88dfad6fb85d\"",
+				"Size": "4804",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "LambdaBackedCustomResourceWithPythonRuntime.template",
+				"LastModified": "2019-03-12T00:39:32.000Z",
+				"ETag": "\"b73e8be652bc1b30f6fcc1e93c8cf986\"",
+				"Size": "3814",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "Managed_EC2_Batch_Environment.json",
+				"LastModified": "2017-08-18T00:23:17.000Z",
+				"ETag": "\"cf20a48d712181ceae049028d7e0e24c\"",
+				"Size": "4676",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "Managed_EC2_Batch_Environment.template",
+				"LastModified": "2019-03-12T00:39:33.000Z",
+				"ETag": "\"7c787382fddc43daf207d4d9ae0e28a3\"",
+				"Size": "4844",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "Managed_EC2_and_Spot_Batch_Environment.json",
+				"LastModified": "2017-08-18T00:22:56.000Z",
+				"ETag": "\"5b612859cab5878617de6fe2b2a31aff\"",
+				"Size": "7417",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "Managed_EC2_and_Spot_Batch_Environment.template",
+				"LastModified": "2019-03-12T00:39:34.000Z",
+				"ETag": "\"1192d36d0ec7f9fd6c914daf96f34736\"",
+				"Size": "7669",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "MineCraft_Server.template",
+				"LastModified": "2013-11-06T05:08:57.000Z",
+				"ETag": "\"6f1bd488af1fe20fd5a1224ba2e3adc7\"",
+				"Size": "11779",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "MonitorEC2AndEBS-1.0.0.template",
+				"LastModified": "2013-11-06T05:08:58.000Z",
+				"ETag": "\"82bd2f2a78a825e0b5e1c65c14692924\"",
+				"Size": "5701",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "MonitorEC2AndEBS.template",
+				"LastModified": "2013-11-25T23:43:16.000Z",
+				"ETag": "\"30b5e48873aaa71140b8335ec1db623c\"",
+				"Size": "7203",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "Mutually_Referencing_EC2_Security_Groups.template",
+				"LastModified": "2013-11-06T05:08:59.000Z",
+				"ETag": "\"8d0eefdefd6928f698a5e3ed314451f3\"",
+				"Size": "1405",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "OpsWorks.template",
+				"LastModified": "2019-03-12T00:39:44.000Z",
+				"ETag": "\"8b5a708fecbcb19a83395d549a296ac7\"",
+				"Size": "5881",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "OpsWorksVPCELB.template",
+				"LastModified": "2019-03-12T00:39:23.000Z",
+				"ETag": "\"eb49bed12599252f8c785940af8eb7c0\"",
+				"Size": "26195",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "OpsWorksinVPC.template",
+				"LastModified": "2013-11-19T22:20:23.000Z",
+				"ETag": "\"f1fc080f9fdf82ff7d68430e64f74545\"",
+				"Size": "12885",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "PHPHelloWorld-1.0.0.template",
+				"LastModified": "2013-11-06T05:09:01.000Z",
+				"ETag": "\"aea37a96ee4f246cc1ad23e629085faf\"",
+				"Size": "10718",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "PHPHelloWorld-NoSSH-1.0.0.template",
+				"LastModified": "2013-11-06T05:09:01.000Z",
+				"ETag": "\"df9f358350da1ef57b8203ee91766634\"",
+				"Size": "10516",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "PHPHelloWorld-NoSSH.template",
+				"LastModified": "2013-11-06T05:09:02.000Z",
+				"ETag": "\"aa2b42d54a71cc5086afa305ca4b3ff7\"",
+				"Size": "11557",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "PHPHelloWorld.template",
+				"LastModified": "2013-11-06T05:09:03.000Z",
+				"ETag": "\"e299504245a2ded79f8f3ee00534a087\"",
+				"Size": "11766",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "PHP_Database_Application.template",
+				"LastModified": "2013-11-06T05:09:04.000Z",
+				"ETag": "\"755729212aa61921c40d8730d61141bf\"",
+				"Size": "7979",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "Parameter_Validate.template",
+				"LastModified": "2019-03-12T00:39:41.000Z",
+				"ETag": "\"b7aa3c0c7a69b4e4b94e9c041f18bd98\"",
+				"Size": "3388",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "RDSDatabaseWithOptionalReadReplica.template",
+				"LastModified": "2013-11-08T18:16:33.000Z",
+				"ETag": "\"8d0ad2b814e0960d7e178647b908553f\"",
+				"Size": "5735",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "RDS_MySQL_51.template",
+				"LastModified": "2013-11-06T05:09:05.000Z",
+				"ETag": "\"2cbfaa48e2b106ea3cbb369ae8367e8d\"",
+				"Size": "8502",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "RDS_MySQL_55.template",
+				"LastModified": "2013-11-06T05:09:06.000Z",
+				"ETag": "\"e85963ecbb7f0a5ce6322e87a374ae4c\"",
+				"Size": "8820",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "RDS_MySQL_55_With_Tags.template",
+				"LastModified": "2013-11-06T05:09:07.000Z",
+				"ETag": "\"c104175bd5bfa77bcc7ed2c9614de00f\"",
+				"Size": "4616",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "RDS_MySQL_With_Read_Replica.template",
+				"LastModified": "2019-03-12T00:39:25.000Z",
+				"ETag": "\"7f697484569e752c108ac6ca4b76e258\"",
+				"Size": "6409",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "RDS_Oracle.template",
+				"LastModified": "2013-11-06T05:09:08.000Z",
+				"ETag": "\"b971ea02e5ba17bfcb734bcd630b2958\"",
+				"Size": "720",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "RDS_PIOPS.template",
+				"LastModified": "2019-03-12T00:39:43.000Z",
+				"ETag": "\"9af46a115d9861362967913e81be1a23\"",
+				"Size": "1440",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "RDS_Snapshot_On_Delete.template",
+				"LastModified": "2019-03-12T00:39:35.000Z",
+				"ETag": "\"410e01b8d06690263bbe16a27f13f191\"",
+				"Size": "1307",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "RDS_VPC.template",
+				"LastModified": "2013-11-06T05:09:10.000Z",
+				"ETag": "\"7f45453e78f1f5f3e4ae8ceb5f6316d4\"",
+				"Size": "3887",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "RDS_Version.template",
+				"LastModified": "2013-11-06T05:09:10.000Z",
+				"ETag": "\"d926df03fbafe741d64f3bb11ff862cc\"",
+				"Size": "786",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "RDS_with_DBParameterGroup.template",
+				"LastModified": "2019-03-12T00:39:26.000Z",
+				"ETag": "\"40f2ecd015b123798e163e6629ae51d8\"",
+				"Size": "2779",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "RailsHelloWorld-1.0.0.template",
+				"LastModified": "2013-11-06T05:09:11.000Z",
+				"ETag": "\"424e802a95115afa4d4cb5495b1731dc\"",
+				"Size": "10920",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "RailsHelloWorld-NoSSH-1.0.0.template",
+				"LastModified": "2013-11-06T05:09:12.000Z",
+				"ETag": "\"6b4fe533598bafa23e068b860f2f087b\"",
+				"Size": "10717",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "RailsHelloWorld-NoSSH.template",
+				"LastModified": "2013-11-06T05:09:13.000Z",
+				"ETag": "\"5efcfe6d23c86d080d43918368a52747\"",
+				"Size": "11758",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "RailsHelloWorld.template",
+				"LastModified": "2013-11-06T05:09:13.000Z",
+				"ETag": "\"7613489a410f3477fc567bcfa187a03d\"",
+				"Size": "11968",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "Rails_Multi_AZ.template",
+				"LastModified": "2019-03-12T00:39:42.000Z",
+				"ETag": "\"c68285163ba529b1b0d657351377e723\"",
+				"Size": "25171",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "Rails_Simple.template",
+				"LastModified": "2014-04-04T22:39:50.000Z",
+				"ETag": "\"d3834418a0100a75f2b299b39de60a38\"",
+				"Size": "7749",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "Rails_Single_Instance.template",
+				"LastModified": "2019-03-12T00:39:36.000Z",
+				"ETag": "\"05cdaae90751051deb79c6870a4bd895\"",
+				"Size": "20749",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "Rails_Single_Instance_With_RDS.template",
+				"LastModified": "2014-04-04T22:39:50.000Z",
+				"ETag": "\"470da1c881f115eb6db5f5e1471f403a\"",
+				"Size": "10512",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "Redmine-1.0.0.template",
+				"LastModified": "2013-11-06T05:09:17.000Z",
+				"ETag": "\"93c137676c730fe9f4821018e22b3f17\"",
+				"Size": "7085",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "Redmine-NoSSH-1.0.0.template",
+				"LastModified": "2013-11-06T05:09:18.000Z",
+				"ETag": "\"346a0ad186a93e52edf1068a22397628\"",
+				"Size": "6883",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "Redmine-NoSSH.template",
+				"LastModified": "2013-11-06T05:09:18.000Z",
+				"ETag": "\"12639746e01955fcd4aee01bbb1a7c7e\"",
+				"Size": "7776",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "Redmine.template",
+				"LastModified": "2013-11-06T05:09:19.000Z",
+				"ETag": "\"5a542f77ec955aa740613070eb7418fe\"",
+				"Size": "7985",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "Redmine_Multi_AZ.template",
+				"LastModified": "2014-04-04T22:39:50.000Z",
+				"ETag": "\"91fed159783b0c510f3de47afa52f2d7\"",
+				"Size": "13007",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "Redmine_Simple.template",
+				"LastModified": "2014-04-04T22:39:50.000Z",
+				"ETag": "\"3e9e164c2f4eec8eddcd7785a37c44fd\"",
+				"Size": "9298",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "Redmine_Single_Instance.template",
+				"LastModified": "2014-04-04T22:39:51.000Z",
+				"ETag": "\"961381bdc4fca97fea58581eff680299\"",
+				"Size": "11392",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "Redmine_Single_Instance_With_RDS.template",
+				"LastModified": "2014-04-04T22:39:51.000Z",
+				"ETag": "\"24137db7e7742817733999540fb0bad0\"",
+				"Size": "10851",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "Redshift.template",
+				"LastModified": "2019-03-12T00:39:38.000Z",
+				"ETag": "\"a0552f0ad4c5348e7b68e9d8be1033a2\"",
+				"Size": "3788",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "RedshiftClusterInVpc.template",
+				"LastModified": "2019-03-12T00:39:38.000Z",
+				"ETag": "\"d201584b296d9bc0f394e6941bc72989\"",
+				"Size": "5059",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "Route53_A.template",
+				"LastModified": "2019-03-12T00:39:38.000Z",
+				"ETag": "\"fe0aea0bfca0fc8f135ca9c5bba40482\"",
+				"Size": "9763",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "Route53_CNAME.template",
+				"LastModified": "2019-03-12T00:39:27.000Z",
+				"ETag": "\"d6115b9fa3323ba13448a5ab6b307d37\"",
+				"Size": "1369",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "Route53_RoundRobin.template",
+				"LastModified": "2019-03-12T00:39:45.000Z",
+				"ETag": "\"cb7e43cc8198474415d5cbc23a4466e2\"",
+				"Size": "2130",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "S3Bucket_Auth_1.template",
+				"LastModified": "2013-11-25T23:43:19.000Z",
+				"ETag": "\"95d45e598d657caeec0c1888a25a7a0c\"",
+				"Size": "7271",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "S3Bucket_Auth_2.template",
+				"LastModified": "2013-11-25T23:43:19.000Z",
+				"ETag": "\"4a62054b1323a8b6f34ebb6044dc6232\"",
+				"Size": "7303",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "S3Bucket_Lockdown_to_IAM_User.template",
+				"LastModified": "2013-11-06T05:09:25.000Z",
+				"ETag": "\"a1fd480d04daf8af55e6353aea758c31\"",
+				"Size": "2134",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "S3Bucket_SourceAuth.template",
+				"LastModified": "2013-11-25T23:43:19.000Z",
+				"ETag": "\"d9e8d588ed3745c1745e31f229520002\"",
+				"Size": "6995",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "S3_Bucket.template",
+				"LastModified": "2013-11-06T05:09:27.000Z",
+				"ETag": "\"7110722e5112e33d6aafa83c5c16b260\"",
+				"Size": "652",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "S3_Bucket_With_Tags.template",
+				"LastModified": "2013-11-06T05:09:28.000Z",
+				"ETag": "\"570203ed500b4e0a0355a4add812096e\"",
+				"Size": "892",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "S3_Website_Bucket_With_Retain_On_Delete.template",
+				"LastModified": "2019-03-12T00:39:39.000Z",
+				"ETag": "\"3f1c185fc945c5203d9a4d3cc07dfab2\"",
+				"Size": "1199",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "S3_Website_With_CloudFront_Distribution.template",
+				"LastModified": "2019-03-12T00:39:39.000Z",
+				"ETag": "\"0e23455b959c93055ea06153c40a26f0\"",
+				"Size": "4870",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "S3_With_CloudFront_Distribution.template",
+				"LastModified": "2014-03-31T16:53:07.000Z",
+				"ETag": "\"2e60a0db53962ac3e9036d6f08734a17\"",
+				"Size": "3292",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "SNSToSQS.template",
+				"LastModified": "2019-03-12T00:39:35.000Z",
+				"ETag": "\"89901d78a2e75b93beb220af855c98d5\"",
+				"Size": "6140",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "SQS.template",
+				"LastModified": "2013-11-06T05:09:30.000Z",
+				"ETag": "\"46581a1333defbf894f6f1aeb9ce8c23\"",
+				"Size": "683",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "SQSDLQ.template",
+				"LastModified": "2014-01-29T20:07:38.000Z",
+				"ETag": "\"7fceed90a2498a66c39472eab3ae5d5d\"",
+				"Size": "1293",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "SQSWithQueueName.template",
+				"LastModified": "2013-11-08T18:16:33.000Z",
+				"ETag": "\"989d082bdd3fe26e719646d6337670fa\"",
+				"Size": "1184",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "SQS_Sample_Base_Producer_Consumer.template",
+				"LastModified": "2013-11-25T23:43:19.000Z",
+				"ETag": "\"d113b34b91adb1b13f841e59ea050da1\"",
+				"Size": "6744",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "SQS_Sample_Base_Producer_Consumer_x2.template",
+				"LastModified": "2013-11-25T23:43:20.000Z",
+				"ETag": "\"393510355fe47a0085ddd4095b653e6b\"",
+				"Size": "9439",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "SQS_Sample_Batch_Producer_Consumer.template",
+				"LastModified": "2013-11-25T23:43:20.000Z",
+				"ETag": "\"bf59214463b30add5b590f6875a40f8f\"",
+				"Size": "6754",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "SQS_With_CloudWatch_Alarms.template",
+				"LastModified": "2019-03-12T00:39:44.000Z",
+				"ETag": "\"0b4870f6362051756a69e0c9be1bd7a2\"",
+				"Size": "2273",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "SampleRailsApp-1.0.0.template",
+				"LastModified": "2013-11-06T05:09:33.000Z",
+				"ETag": "\"2ec95ded84a91a23f74d207ecc064c35\"",
+				"Size": "3410",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "SampleRailsApp.template",
+				"LastModified": "2013-11-25T23:43:20.000Z",
+				"ETag": "\"bc7a5e13e0fa5e8b5523387e7ae3cd78\"",
+				"Size": "4255",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "Templates_within_Templates.template",
+				"LastModified": "2013-11-25T23:43:40.000Z",
+				"ETag": "\"94cdc01652276eb5b9f47142c2c7e62d\"",
+				"Size": "6321",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "Tracks-1.0.0.template",
+				"LastModified": "2013-11-06T05:09:35.000Z",
+				"ETag": "\"1601b377cdbcfe8643eb3e16fe50e56d\"",
+				"Size": "11338",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "Tracks-NoSSH-1.0.0.template",
+				"LastModified": "2013-11-06T05:09:36.000Z",
+				"ETag": "\"0305d8a1e5b7f8d45b59eda1c17f3d32\"",
+				"Size": "11136",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "Tracks-NoSSH.template",
+				"LastModified": "2013-11-06T05:09:36.000Z",
+				"ETag": "\"32f240ee34a7de1d21e6d6652fd56239\"",
+				"Size": "12188",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "Tracks.template",
+				"LastModified": "2013-11-06T05:09:37.000Z",
+				"ETag": "\"d1236b05e727d445c24c7cfa97403243\"",
+				"Size": "12397",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "Tracks_Multi_AZ.template",
+				"LastModified": "2013-11-25T23:43:41.000Z",
+				"ETag": "\"9419b0d4fd4b834c7c2a2698c85dc6d9\"",
+				"Size": "12121",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "Tracks_Simple.template",
+				"LastModified": "2013-11-06T05:09:39.000Z",
+				"ETag": "\"06107401ec53f02eebe48ece6eef0903\"",
+				"Size": "7745",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "Tracks_Single_Instance.template",
+				"LastModified": "2013-11-25T23:43:41.000Z",
+				"ETag": "\"2d5ad58eb23abfbffdf860f3bd329eaa\"",
+				"Size": "9837",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "Tracks_Single_Instance_With_RDS.template",
+				"LastModified": "2013-12-04T18:15:55.000Z",
+				"ETag": "\"8da0e34d32055527054cf8a3901e508e\"",
+				"Size": "9834",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "UpdateTutorial Part1.template",
+				"LastModified": "2013-11-06T05:09:41.000Z",
+				"ETag": "\"0d066129a936056cd6686f7a04bb667a\"",
+				"Size": "6857",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "UpdateTutorial Part2.template",
+				"LastModified": "2013-11-06T05:09:41.000Z",
+				"ETag": "\"e4824689a9901cca36f636ae5328ca3b\"",
+				"Size": "6920",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "UpdateTutorial Part3.template",
+				"LastModified": "2013-11-06T05:09:42.000Z",
+				"ETag": "\"d39d923e374f784d2c2ca3f372c39e4d\"",
+				"Size": "7641",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "UpdateTutorial Part4.template",
+				"LastModified": "2013-11-06T05:09:43.000Z",
+				"ETag": "\"0f6763fd248e37eb4fbb95484b0e552a\"",
+				"Size": "7645",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "UpdateTutorial Part5.template",
+				"LastModified": "2013-11-06T05:09:43.000Z",
+				"ETag": "\"05459d377b0e187fcfee3ab4f10e45da\"",
+				"Size": "8787",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "UpdateTutorialPart1.template",
+				"LastModified": "2013-11-06T05:09:44.000Z",
+				"ETag": "\"2534148cb9245f5ad33d3ea2be9fbd37\"",
+				"Size": "6855",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "UpdateTutorialPart2.template",
+				"LastModified": "2013-11-06T05:09:45.000Z",
+				"ETag": "\"6958ca06d1ad16eb1e13c66b1667c25a\"",
+				"Size": "6920",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "UpdateTutorialPart3.template",
+				"LastModified": "2013-11-06T05:09:45.000Z",
+				"ETag": "\"572a54c23668ec615079570bc6414f1b\"",
+				"Size": "7641",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "UpdateTutorialPart4.template",
+				"LastModified": "2013-11-06T05:09:46.000Z",
+				"ETag": "\"7cea6767e5bc8004c0da4e1940ea4107\"",
+				"Size": "7640",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "UpdateTutorialPart5.template",
+				"LastModified": "2013-11-06T05:09:47.000Z",
+				"ETag": "\"5096c901bdfb0f96bb2c710193add032\"",
+				"Size": "8785",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "VPC_AutoScaling_With_Public_IPs.template",
+				"LastModified": "2019-03-12T00:39:23.000Z",
+				"ETag": "\"757ef572cac15029e207d8441dc5977e\"",
+				"Size": "24221",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "VPC_AutoScaling_and_ElasticLoadBalancer.template",
+				"LastModified": "2019-03-12T00:39:30.000Z",
+				"ETag": "\"d36d9e49d1ed89b43203f7128dc59789\"",
+				"Size": "19106",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "VPC_AutoScaling_and_NetworkLoadBalancer.template",
+				"LastModified": "2019-03-12T00:39:22.000Z",
+				"ETag": "\"a85943c31d23db14e42ce5350a7137ec\"",
+				"Size": "4180",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "VPC_EC2_Instance_With_Multiple_Dynamic_IPAddresses.template",
+				"LastModified": "2019-03-12T00:39:42.000Z",
+				"ETag": "\"1dc4b1b841cb7348d2d916fe21d92321\"",
+				"Size": "12792",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "VPC_EC2_Instance_With_Multiple_Static_IPAddresses.template",
+				"LastModified": "2019-03-12T00:39:27.000Z",
+				"ETag": "\"2c59630ee486d59add16a1fff593097e\"",
+				"Size": "13159",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "VPC_EC2_Instance_with_EIP_and_Security_Group.template",
+				"LastModified": "2013-11-25T23:43:41.000Z",
+				"ETag": "\"199aae1c86542df7b46710c9afb505cb\"",
+				"Size": "3175",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "VPC_ElastiCache_Cluster.template",
+				"LastModified": "2013-11-25T23:43:41.000Z",
+				"ETag": "\"f7fa2e35582da2f7b7f1708927ba5d00\"",
+				"Size": "12065",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "VPC_Instance_With_Association.template",
+				"LastModified": "2013-11-06T05:09:51.000Z",
+				"ETag": "\"45049040ab87900a14f2065c9e90b25e\"",
+				"Size": "2378",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "VPC_RDS_DB_Instance.template",
+				"LastModified": "2013-11-06T05:09:52.000Z",
+				"ETag": "\"85fee3829f50a58305b91c4a0c2e1325\"",
+				"Size": "3975",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "VPC_Single_Instance_In_Subnet.template",
+				"LastModified": "2019-03-12T00:39:21.000Z",
+				"ETag": "\"d2bafeab76f342cd8422893a4d14f612\"",
+				"Size": "20715",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "VPC_With_PublicIPs_And_DNS.template",
+				"LastModified": "2019-03-12T00:39:21.000Z",
+				"ETag": "\"7e1984db3b9eb1397bfc48470e7cb804\"",
+				"Size": "15472",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "VPC_With_VPN_Connection.template",
+				"LastModified": "2019-03-12T00:39:37.000Z",
+				"ETag": "\"ffb9f81a8c488b503e0f5619015c4bea\"",
+				"Size": "6765",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "VPC_WordPress_Single_Instance_With_RDS.template",
+				"LastModified": "2013-11-25T23:43:41.000Z",
+				"ETag": "\"22558a6e9a8a82d02a952cca856895b0\"",
+				"Size": "11416",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "WaitObject.template",
+				"LastModified": "2013-11-06T05:09:54.000Z",
+				"ETag": "\"4ca0d9a8cc3a396a0e6f004f472d371d\"",
+				"Size": "1415",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "Windows_Roles_And_Features.template",
+				"LastModified": "2019-03-12T00:39:34.000Z",
+				"ETag": "\"4615c840aa2b4a0f2c2de9a9ea1acf70\"",
+				"Size": "10836",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "Windows_Single_Server_Active_Directory.template",
+				"LastModified": "2019-03-12T00:39:20.000Z",
+				"ETag": "\"bc6279bf43ba867035850a8b09c68ff8\"",
+				"Size": "13234",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "Windows_Single_Server_SharePoint_Foundation.template",
+				"LastModified": "2019-03-12T00:39:40.000Z",
+				"ETag": "\"052196e794b142b25795a9cb52d4a1b7\"",
+				"Size": "8597",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "WordPress-1.0.0.template",
+				"LastModified": "2013-11-06T05:09:57.000Z",
+				"ETag": "\"0f2cc6eb555ac3fd4833899388c58966\"",
+				"Size": "12718",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "WordPress-NoSSH-1.0.0.template",
+				"LastModified": "2013-11-06T05:09:57.000Z",
+				"ETag": "\"afa83691109ee47110780646419bf32b\"",
+				"Size": "10895",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "WordPress-NoSSH.template",
+				"LastModified": "2013-11-06T05:09:58.000Z",
+				"ETag": "\"58fd3a52892ed4b4664f4c4c68b0e3f5\"",
+				"Size": "12005",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "WordPress.template",
+				"LastModified": "2013-11-06T05:09:59.000Z",
+				"ETag": "\"d68334b57f9d802f681fc447039c7a05\"",
+				"Size": "12226",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "WordPress_Bootstrap.template",
+				"LastModified": "2019-03-12T00:39:31.000Z",
+				"ETag": "\"d725ab4ce0ad799787fd2a6143e03003\"",
+				"Size": "20993",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "WordPress_Bootstrap_AmazonLinux2.template",
+				"LastModified": "2019-03-12T00:39:36.000Z",
+				"ETag": "\"f376349295caefdc9ede41b5412716ca\"",
+				"Size": "14496",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "WordPress_Chef.template",
+				"LastModified": "2019-03-12T00:39:40.000Z",
+				"ETag": "\"2b345d5a763422a3b764d9ace90b4444\"",
+				"Size": "24726",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "WordPress_Multi_AZ.template",
+				"LastModified": "2019-03-12T00:39:19.000Z",
+				"ETag": "\"a17c249422f72f73f75b691344cb9229\"",
+				"Size": "20995",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "WordPress_Multi_AZ_AmazonLinux2.template",
+				"LastModified": "2019-03-12T00:39:20.000Z",
+				"ETag": "\"fca8cb8f020a46fbe7855a4107a824f1\"",
+				"Size": "17966",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "WordPress_Simple.template",
+				"LastModified": "2013-11-25T23:43:44.000Z",
+				"ETag": "\"969db9fcb6a3a9926f144ee163134b5e\"",
+				"Size": "8127",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "WordPress_Single_Instance.template",
+				"LastModified": "2019-03-12T00:39:31.000Z",
+				"ETag": "\"e11b83f9133b3662baf05e26bc95e2da\"",
+				"Size": "17435",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "WordPress_Single_Instance.yaml",
+				"LastModified": "2016-08-31T18:10:09.000Z",
+				"ETag": "\"02495c1d92aba77df9390cc7c07d925f\"",
+				"Size": "12764",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "WordPress_Single_Instance_AmazonLinux2.template",
+				"LastModified": "2019-03-12T00:39:37.000Z",
+				"ETag": "\"b7288d79b86f772e11fcc5589fbaa095\"",
+				"Size": "14378",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "WordPress_Single_Instance_With_RDS.template",
+				"LastModified": "2014-08-12T18:14:03.000Z",
+				"ETag": "\"08a39fb55b8beadab3b31be1bcd32577\"",
+				"Size": "9613",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "auto_scaling_with_instance_profile.template",
+				"LastModified": "2013-11-06T05:10:02.000Z",
+				"ETag": "\"d9d2681072d80bc9309a9e9bff9de157\"",
+				"Size": "6112",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "bees-with-machineguns.template",
+				"LastModified": "2013-11-06T05:10:03.000Z",
+				"ETag": "\"d0829fcacc14ef860afd84578e425e3e\"",
+				"Size": "28610",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "cc1-cluster.json",
+				"LastModified": "2013-11-06T05:10:04.000Z",
+				"ETag": "\"0ba3e378fb5049bed6775b03dcf3d54f\"",
+				"Size": "6258",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "cc2-cluster.json",
+				"LastModified": "2013-11-06T05:10:04.000Z",
+				"ETag": "\"f7a98d636137558041b2e0cfea0df26f\"",
+				"Size": "6434",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "cc2-spot-cluster.template",
+				"LastModified": "2013-11-06T05:10:05.000Z",
+				"ETag": "\"a70fe495f9dc6763105d7492d434fd0b\"",
+				"Size": "13959",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "chef-server-ubuntu-configuration.template",
+				"LastModified": "2014-02-14T22:22:50.000Z",
+				"ETag": "\"278abb5de18d97c8a9bc66a3b7c4ca18\"",
+				"Size": "10010",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "chef-solo-configuration.template",
+				"LastModified": "2014-02-11T20:10:13.000Z",
+				"ETag": "\"16b372868b61024a2c60b16939a5e2c3\"",
+				"Size": "12389",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "cloudfront_multiorigin.template",
+				"LastModified": "2013-11-06T05:10:07.000Z",
+				"ETag": "\"a1f80a66e04053aae0ac33a304afb2d3\"",
+				"Size": "5599",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "dynamodb_table.template",
+				"LastModified": "2013-11-06T05:10:08.000Z",
+				"ETag": "\"c043eb689e04e8a17b9d04b8677f9a38\"",
+				"Size": "2234",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "ec2_instance_with_instance_profile.template",
+				"LastModified": "2013-11-06T05:10:09.000Z",
+				"ETag": "\"eb0ab52a6ee4300961c5e6b3575827a8\"",
+				"Size": "3302",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "multi-tier-vpc.template",
+				"LastModified": "2013-11-25T23:43:45.000Z",
+				"ETag": "\"130e93bf7d8b9b0350b927c5fd77b6d6\"",
+				"Size": "15240",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "multi-tier-web-app-in-vpc.template",
+				"LastModified": "2013-11-25T23:43:46.000Z",
+				"ETag": "\"f855dc4c5e4e08c5bbfd9db5de363de6\"",
+				"Size": "28119",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "puppet-client-configuration.template",
+				"LastModified": "2013-11-25T23:43:46.000Z",
+				"ETag": "\"0967ad92bd3a8b394a61f9b7a46ca95c\"",
+				"Size": "7410",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "puppet-master-configuration.template",
+				"LastModified": "2013-11-25T23:43:46.000Z",
+				"ETag": "\"53020a304ed112569e00e23aa6ad33fb\"",
+				"Size": "9644",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "sns_httpendpoint.template",
+				"LastModified": "2014-02-18T23:29:20.000Z",
+				"ETag": "\"7bbdd7d8b6b6363c7cb778bf186546f0\"",
+				"Size": "4608",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "vpc_multiple_subnets.template",
+				"LastModified": "2013-11-06T05:10:18.000Z",
+				"ETag": "\"feaad5273fd4f184f842bcab226877ea\"",
+				"Size": "11537",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "vpc_single_instance_in_subnet.template",
+				"LastModified": "2013-11-25T23:43:46.000Z",
+				"ETag": "\"7a5dd54e6d77a96d23d7270bee128848\"",
+				"Size": "11292",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "wordpress-via-cfn-bootstrap.template",
+				"LastModified": "2013-11-25T23:43:46.000Z",
+				"ETag": "\"cfd57e7a782194d8f7547ad3b749aa58\"",
+				"Size": "10396",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "wordpress-via-chef-client.template",
+				"LastModified": "2013-11-25T23:43:46.000Z",
+				"ETag": "\"e58aeedcfc8210137fd9995de2d92717\"",
+				"Size": "10657",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "wordpress-via-chef-solo-building-block.template",
+				"LastModified": "2014-02-11T20:30:32.000Z",
+				"ETag": "\"2513d9541a0897a038f90b91ea5fb976\"",
+				"Size": "7916",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "wordpress-via-chef-solo.template",
+				"LastModified": "2013-11-25T23:43:47.000Z",
+				"ETag": "\"25f899e89ccf9d8fbd4289dbafad2c71\"",
+				"Size": "11827",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "wordpress-via-puppet-client-building-block.template",
+				"LastModified": "2013-11-25T23:43:48.000Z",
+				"ETag": "\"d97ea71d1b807e2bfa2ff3d1024635d0\"",
+				"Size": "6776",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "wordpress-via-puppet-client.template",
+				"LastModified": "2013-11-25T23:43:48.000Z",
+				"ETag": "\"48bcb8534f015a5f6f198f0baaed09a9\"",
+				"Size": "9441",
+				"StorageClass": "STANDARD"
+			},
+			{
+				"Key": "worker-role.template",
+				"LastModified": "2013-11-25T23:43:48.000Z",
+				"ETag": "\"78c16514e2111d9086aa1f2879ba1544\"",
+				"Size": "13938",
+				"StorageClass": "STANDARD"
+			}
+		]
+	}
+}
