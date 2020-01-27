@@ -1,5 +1,6 @@
 import json
-from jsonpath_ng import jsonpath,parse
+
+from jsonpath_ng import parse
 
 with open("cloud.json", 'r') as json_file:
     json_data = json.load(json_file)

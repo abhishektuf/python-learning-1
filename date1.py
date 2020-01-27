@@ -1,23 +1,24 @@
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, tzinfo, timezone
 
 today = datetime.now()
 
 one_day = timedelta(days=1)
 
 yesterday = today - one_day
-print('Today is: '+str(today))
-print('Yesterday was: '+str(yesterday))
+print('Today is: ' + str(today))
+print('Yesterday was: ' + str(yesterday))
 
 one_week = timedelta(weeks=1)
 
 last_weekday = today - one_week
 
-print('Last week: '+str(last_weekday))
+print('Last week: ' + str(last_weekday))
 
-print('Day: '+str(today.day))
-print('Month: '+str(today.month))
-print('Year: '+str(today.year))
+print('Day: ' + str(today.day))
+print('Month: ' + str(today.month))
+print('Year: ' + str(today.year))
 
-print('Hour: '+str(today.hour))
-print('Minutes: '+str(today.minute))
-print('Seconds: '+str(today.second))
+print('Hour: ' + str(today.hour))
+print('Minutes: ' + str(today.minute))
+print('Seconds: ' + str(today.second))
+print('Time zone: ' + str(today.tzinfo))
