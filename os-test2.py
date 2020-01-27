@@ -1,9 +1,9 @@
-import os
+import oslib1
 import shutil
 import subprocess
 from pprint import pprint
 
-pwd = os.getcwd()
+pwd = oslib1.getcwd()
 '''
 ls = os.listdir()
 print(pwd)
@@ -12,10 +12,10 @@ print(ls)
 for item in ls:
     print(item)
 '''
-abp = os.path.abspath('os.py')
-bname = os.path.basename(abp)
-spath = os.path.split(os.getcwd())
-epath = os.path.exists('c:\windows')
+abp = oslib1.path.abspath('oslib1.py')
+bname = oslib1.path.basename(abp)
+spath = oslib1.path.split(oslib1.getcwd())
+epath = oslib1.path.exists('c:\windows')
 
 
 result = shutil.copyfile(abp, r'C:\Users\xtqj1432\Desktop\test.py')
